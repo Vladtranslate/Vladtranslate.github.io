@@ -1,0 +1,224 @@
+Uri: https://jackbox.ru/
+File Name: c:\Downloaded Web Sites\jackbox.ru\index.htm
+Content Type: text/html
+
+Uri: https://jackbox.ru/images/99fdbad9bf352f5ae19ace8e4fa85bea.ico
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\99fdbad9bf352f5ae19ace8e4fa85bea.ico
+Content Type: image/x-icon
+
+Uri: https://jackbox.ru/images/cc5028b023f7b081749f872413a750f0.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\cc5028b023f7b081749f872413a750f0.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/c8031b124894cac37d0e697d0365760e.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\c8031b124894cac37d0e697d0365760e.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/b1ceecf6b9a3d8c6b6e38fd529ae56df.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\b1ceecf6b9a3d8c6b6e38fd529ae56df.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/edf31c12625baf5001e193de096464cc.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\edf31c12625baf5001e193de096464cc.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/d37b649aa271f7488e94179029a75a2f.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\d37b649aa271f7488e94179029a75a2f.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/40c88f0764c3231527597e15fd9e6a5e.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\40c88f0764c3231527597e15fd9e6a5e.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/7580df0db51100a394024875f7b370dd.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\7580df0db51100a394024875f7b370dd.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/app.580ab9a8c1f055678bb8.css
+File Name: c:\Downloaded Web Sites\jackbox.ru\app.580ab9a8c1f055678bb8.css
+Content Type: text/css
+
+Uri: https://jackbox.ru/app.7b0adef5a6c31af1a56f1.js
+File Name: c:\Downloaded Web Sites\jackbox.ru\app.7b0adef5a6c31af1a56f1.js
+Content Type: application/javascript
+
+Uri: https://jackbox.ru/fonts/f4769f9bdb7466be65088239c12046d1.eot
+File Name: c:\Downloaded Web Sites\jackbox.ru\fonts\f4769f9bdb7466be65088239c12046d1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jackbox.ru/fonts/f4769f9bdb7466be65088239c12046d1.eot?
+File Name: c:\Downloaded Web Sites\jackbox.ru\fonts\f4769f9bdb7466be65088239c12046d1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jackbox.ru/fonts/448c34a56d699c29117adc64c43affeb.woff2
+File Name: c:\Downloaded Web Sites\jackbox.ru\fonts\448c34a56d699c29117adc64c43affeb.bin
+Content Type: application/octet-stream
+
+Uri: https://jackbox.ru/fonts/fa2772327f55d8198301fdb8bcfc8158.woff
+File Name: c:\Downloaded Web Sites\jackbox.ru\fonts\fa2772327f55d8198301fdb8bcfc8158.woff
+Content Type: application/font-woff
+
+Uri: https://jackbox.ru/fonts/e18bbf611f2a2e43afc071aa2f4e1512.ttf
+File Name: c:\Downloaded Web Sites\jackbox.ru\fonts\e18bbf611f2a2e43afc071aa2f4e1512.bin
+Content Type: application/octet-stream
+
+Uri: https://jackbox.ru/images/89889688147bd7575d6327160d64e760.svg
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\89889688147bd7575d6327160d64e760.svg
+Content Type: image/svg+xml
+
+Uri: https://jackbox.ru/fonts/674f50d287a8c48dc19ba404d20fe713.eot
+File Name: c:\Downloaded Web Sites\jackbox.ru\fonts\674f50d287a8c48dc19ba404d20fe713.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jackbox.ru/fonts/674f50d287a8c48dc19ba404d20fe713.eot?
+File Name: c:\Downloaded Web Sites\jackbox.ru\fonts\674f50d287a8c48dc19ba404d20fe713-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://jackbox.ru/fonts/af7ae505a9eed503f8b8e6982036873e.woff2
+File Name: c:\Downloaded Web Sites\jackbox.ru\fonts\af7ae505a9eed503f8b8e6982036873e.bin
+Content Type: application/octet-stream
+
+Uri: https://jackbox.ru/fonts/fee66e712a8a08eef5805a46892932ad.woff
+File Name: c:\Downloaded Web Sites\jackbox.ru\fonts\fee66e712a8a08eef5805a46892932ad.woff
+Content Type: application/font-woff
+
+Uri: https://jackbox.ru/fonts/b06871f281fee6b241d60582ae9369b9.ttf
+File Name: c:\Downloaded Web Sites\jackbox.ru\fonts\b06871f281fee6b241d60582ae9369b9.bin
+Content Type: application/octet-stream
+
+Uri: https://jackbox.ru/images/912ec66d7572ff821749319396470bde.svg
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\912ec66d7572ff821749319396470bde.svg
+Content Type: image/svg+xml
+
+Uri: https://jackbox.ru/images/301a9f22eda1f2c7257136d0c44132aa.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\301a9f22eda1f2c7257136d0c44132aa.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/323bb99752e869fc788498752ce791a3.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\323bb99752e869fc788498752ce791a3.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/9ff43fdc82cf27361e60e252ecf9a139.svg
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\9ff43fdc82cf27361e60e252ecf9a139.svg
+Content Type: image/svg+xml
+
+Uri: https://jackbox.ru/images/a1a39cf83e9c06abdba1a063d2511fb6.svg
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\a1a39cf83e9c06abdba1a063d2511fb6.svg
+Content Type: image/svg+xml
+
+Uri: https://jackbox.ru/images/5ff52c99c8f4ede1fd0220c88e697fc1.svg
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\5ff52c99c8f4ede1fd0220c88e697fc1.svg
+Content Type: image/svg+xml
+
+Uri: https://jackbox.ru/images/1e8b02b10b8b38b196be04b9d372d36f.jpg
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\1e8b02b10b8b38b196be04b9d372d36f.jpg
+Content Type: image/jpeg
+
+Uri: https://jackbox.ru/images/86890bdc090e0fbca58558150ea48155.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\86890bdc090e0fbca58558150ea48155.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/39013cd77243f17ee439403688166fc4.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\39013cd77243f17ee439403688166fc4.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/ff37967a69dbb7734f0632e424dc858f.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\ff37967a69dbb7734f0632e424dc858f.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/d1bc1eb9e88c1292ea4929a52a25a52a.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\d1bc1eb9e88c1292ea4929a52a25a52a.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/9a56fa11d1afeb6db95707e207d02357.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\9a56fa11d1afeb6db95707e207d02357.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/2f0d45f8e7b733f65d364469af194855.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\2f0d45f8e7b733f65d364469af194855.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/778fb5d1c429eec9a0b3c84cf2b6245d.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\778fb5d1c429eec9a0b3c84cf2b6245d.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/aee57666a282e044c81f02af953523f1.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\aee57666a282e044c81f02af953523f1.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/0f82edf7e4e20580cd9af32deba4cd27.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\0f82edf7e4e20580cd9af32deba4cd27.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/5359ae29caf008e18a8243dc923f436b.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\5359ae29caf008e18a8243dc923f436b.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/6b47cec58ec78ee26ed88e6ac4206d93.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\6b47cec58ec78ee26ed88e6ac4206d93.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/187d46a3eb36a5db4e5d67cf2706262d.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\187d46a3eb36a5db4e5d67cf2706262d.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/61db56f663ae610f9af381f77de6937a.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\61db56f663ae610f9af381f77de6937a.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/d2833574e24c3703357daef5e6ad6476.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\d2833574e24c3703357daef5e6ad6476.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/5a7cacd1e96323aa5e3c358f5027afb0.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\5a7cacd1e96323aa5e3c358f5027afb0.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/2de746768ee0b6b2599bd711baad8b37.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\2de746768ee0b6b2599bd711baad8b37.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/dedd99895cd2d43043ca7571b793d25c.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\dedd99895cd2d43043ca7571b793d25c.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/ccd3b851d2135cb01e508ae3e48d6f30.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\ccd3b851d2135cb01e508ae3e48d6f30.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/10e09372727de9a53a5ea34582c710d9.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\10e09372727de9a53a5ea34582c710d9.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/cc7037b64dcffeea1a53a8c0d637c38c.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\cc7037b64dcffeea1a53a8c0d637c38c.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/b393f082ea9e343930034a0d4135520c.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\b393f082ea9e343930034a0d4135520c.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/edd82d6251819a2e7e67733e13888f36.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\edd82d6251819a2e7e67733e13888f36.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/94d855f5b2ebb7b97072422a1c28df55.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\94d855f5b2ebb7b97072422a1c28df55.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/3016022acbfa40be52de76517bc6835a.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\3016022acbfa40be52de76517bc6835a.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/9e0a172e28ffa166f49bdf726d040cb1.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\9e0a172e28ffa166f49bdf726d040cb1.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/8a5f862cdd95135d2851fd647a550f2a.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\8a5f862cdd95135d2851fd647a550f2a.png
+Content Type: image/png
+
+Uri: https://jackbox.ru/images/67e46b505b4b43c608ad3a9a4057bd5d.png
+File Name: c:\Downloaded Web Sites\jackbox.ru\images\67e46b505b4b43c608ad3a9a4057bd5d.png
+Content Type: image/png
+
